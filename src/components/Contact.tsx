@@ -8,7 +8,7 @@ const Contact = () => {
         <div className="text-center mb-16">
           <h2 className="section-title">Contact <span className="text-cyan-400">Me</span></h2>
           <p className="text-white/70 max-w-2xl mx-auto">
-            Feel free to reach out to me for any inquiries or collaboration opportunities.
+            Feel free to reach out to me for any queries or collaboration opportunities.
           </p>
         </div>
         
